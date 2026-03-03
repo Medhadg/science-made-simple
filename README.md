@@ -1,6 +1,6 @@
 # Science Made Simple (SMS)
 
-**Turning experimental uncertainty into structured decisions.**
+**Turning experimental uncertainty into actionable decisions.**
 
 Science Made Simple builds decision frameworks for structural biology and experimental research teams navigating complex iteration loops.
 
