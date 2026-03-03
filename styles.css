@@ -25,7 +25,12 @@ body {
   margin-bottom: 2rem;
   opacity: 0.85;
 }
-
+.hero-blurb{
+  max-width: 760px;
+  margin: 0 auto 1.75rem;
+  font-size: 1.05rem;
+  opacity: 0.9;
+}
 .section {
   padding: 4rem 2rem;
   max-width: 800px;
