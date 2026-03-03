@@ -45,8 +45,11 @@ Select advisory and consulting conversations welcome.
 ## Founder
 
 Dr. Medhanjali Dasgupta  
-Structural biology • Experimental systems design • AI-aligned workflows
+Structural biology • Experimental systems design • AI-aligned workflows • Science education and outreach
 
 ---
 
-Contact: mdasgupta@unmc.edu
+## Contact
+Dr. Medhanjali Dasgupta  
+Email: mdasgupta@unmc.edu  
+LinkedIn: https://www.linkedin.com/in/professional-website-md/
